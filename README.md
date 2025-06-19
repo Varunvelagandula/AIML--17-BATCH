@@ -1,4 +1,6 @@
-WEATHER PREDICTION
+WEATHER PREDICTION WITH AIML
+
+DESCRIPTION:
 
 This project involved building a machine learning model to predict the next day’s maximum temperature (tmax) using historical weather data spanning from 1970 to 2022. The dataset was cleaned, enriched with rolling averages, percentage changes, and seasonal patterns, and a Ridge Regression model was used for prediction. The model was evaluated using a custom backtesting strategy to simulate real-world forecasting.
 
